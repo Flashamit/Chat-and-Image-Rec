@@ -1,4 +1,5 @@
-#Chat with Luke: An AI-Powered Wellness Chatbot
+#Chat with Luke: 
+An AI-Powered Wellness Chatbot
 Chat with Luke is an AI-powered chatbot designed to assist users with health and wellness-related queries. Built using cutting-edge AI technologies, it leverages document embeddings, vector similarity search, and large language models to provide detailed, accurate, and empathetic responses to user questions.
 
 
